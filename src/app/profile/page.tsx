@@ -1,9 +1,10 @@
 import React from 'react'
 
-export default function Home() {
+export default function Profile
+() {
   return (
     <div>
-      <h1>WelCome Home</h1>
+      <h1>My Profile</h1>
     </div>
   )
 }
